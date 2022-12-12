@@ -4,7 +4,10 @@ title:  "甚麼是GDscript?"
 date:   2022-12-12 08:39:48 +0800
 categories: jekyll update
 ---
+
 GDscript是Godot專用的程式語言，他的語法與Python或是Swift很相似，我會在這篇文章中盡我所能講解GDscript的使用方式 :D
+
+--------
 
 ## 註解(comment)
 註解是給人類看的「筆記」，註解不會被Godot執行。
