@@ -1,4 +1,9 @@
-# GDscript教學
+---
+layout: post
+title:  "甚麼是GDscript?"
+date:   2022-12-12 08:39:48 +0800
+categories: jekyll update
+---
 GDscript是Godot專用的程式語言，他的語法與Python或是Swift很相似，我會在這篇文章中盡我所能講解GDscript的使用方式 :D
 ## 函式(functions)
 函式是一長串可以重複使用的程式碼，它可以幫助你更容易偵錯。
