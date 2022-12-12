@@ -27,9 +27,8 @@ twitter_username: MeBadDev
 github_username:  MeBadDev
 
 # Build settings
-theme: minima
+theme: minimal
 plugins:
-  - jekyll-remote-theme
   - jekyll-feed
 
 # Exclude from processing.
