@@ -47,6 +47,7 @@ func say_hello():
 func say_hello(name):
     print('Hello' + name + '!')
 ```
+這個函式現在會接收一個物件，我們可以用`say_hello("MeBadDev")`來試試，你應該會看到終端上顯示了一句"Hello MeBadDev!"
 ## 條件判斷(conditions)
 在GDscript 中，有 `if`, `else`, `elif`這三種用來條件判斷的關鍵字，這些關鍵字能夠在條件滿足時執行一段程式碼，範例:
 
