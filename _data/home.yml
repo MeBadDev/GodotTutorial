@@ -7,7 +7,7 @@ navbar_entries:
 
 project_entries:
   - title: 甚麼是GDscript?
-    url: http://127.0.0.1:4000/2022/12/12/what-is-gdscript.html
+    url: 2022/12/12/what-is-gdscript
     desc: 這篇文章會教你GDsript的常用語法
 
 # old_project_entries:
