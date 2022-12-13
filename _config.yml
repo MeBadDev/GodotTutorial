@@ -5,7 +5,7 @@ description: > # description of the site (multiple lines allowed)
   這個網站將會教你使用Godot遊戲引擎開發遊戲!
 
 
-favicon: "./logo.png" # relative path to site's favicon
+favicon: "./godot.png" # relative path to site's favicon
 
 twitter:
     username: MeBadDev # update or delete this
